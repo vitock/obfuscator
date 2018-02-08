@@ -15,3 +15,9 @@ documentation setup.
 
 If you are writing a package for LLVM, see docs/Packaging.rst for our
 suggestions.
+
+
+输入export 看看环境变量
+unset LIBRARY_PATH
+unset  C_INCLUDE_PATH 
+这些环境变量
